@@ -1,0 +1,31 @@
+.heading1{
+    color: brown;
+    font-size: large;
+}
+
+.h1{
+    color: chocolate;
+}
+
+.subHeaderStyle{
+    color: blueviolet;
+    background-color: lightblue;
+}
+
+.mainHeaderStyle{
+    background-color: black;
+}
+.logoStyle{
+    height: 35px;
+    vertical-align: top;
+}
+.footerStyle{
+    color: gray;
+    background-color: black;
+    margin-top: 10px;
+    text-align: center;
+}
+.mainDev{
+    background-color: black;
+    color: gray;
+}
